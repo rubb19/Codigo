@@ -1,0 +1,82 @@
+//: Playground - noun: a place where people can play
+
+import UIKit
+
+var str = "Hello, playground"
+var nombre = "Rubb"
+var primerApellidoDeNacimiento : String = "Anaya"
+let pi : Int = 78 //Forma ideal de declarar variables
+nombre = "Ruben"
+var x = 0.0, y = 0.0, z = 0.0
+var rojo, verde, azul : Int
+
+var 😎 = "✌🏻"
+
+//Tipos de datos
+var entero : Int = 23
+var flotante : Float = 1243.2
+var doble : Double = 1898.8654
+var booleano : Bool = true
+var cadena : String = "hola"
+var caracter : Character = "t"
+var cualquiera : Any = "Cámbiame por otro tipo de dato"
+
+// Operadores
+
+var a = 10
+a = a + 1
+a = a - 1
+a = a * a
+a = a / a
+a = 9 % 3
+
+var b = 10
+
+//incremento
+
+b += 10
+
+//decremento
+
+b -= 10
+
+
+//operadores lógicos
+
+var c = 1.1
+var d = 2.2
+
+//mayor que
+c > 3
+
+//menor que
+c < 4
+
+//mayor igual que
+c >= 3
+
+//menor igual que
+c >= 1.1
+
+//igual que
+
+nombre == "rubb"
+
+//diferente
+
+nombre != "anaya"
+
+//negado
+var vivoEnElSemestre = true
+!vivoEnElSemestre
+
+//And
+
+true && true
+true && false
+
+//Or
+
+true || false
+
+//Or
